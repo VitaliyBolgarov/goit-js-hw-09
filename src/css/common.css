@@ -132,8 +132,8 @@ button[type='submit']:active {
   font-weight: 600;
   text-align: center;
   letter-spacing: 4px;
-  color: #f1ebe5;
-  text-shadow: 0 6px 8px #c4b59d, 0px -3px 1px #fff;
+  color: #18e614;
+  text-shadow: 0 6px 8px #c2b6a4, 0px -3px 1px #ffffff;
 }
 
 .label {
@@ -141,8 +141,8 @@ button[type='submit']:active {
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
-  color: #f1ebe5;
-  text-shadow: 0px 4px 4px #c4b59d, 0 -2px 1px #fff;
+  color: #da740e;
+  text-shadow: 0px 4px 4px #645a49, 0 -2px 1px #fff;
 }
 
 .flatpickr-months {
