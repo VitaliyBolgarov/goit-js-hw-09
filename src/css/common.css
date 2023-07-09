@@ -7,7 +7,7 @@ body {
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fafafa;
+  /* background-color: #fafafa; */
   color: #212121;
   line-height: 1.5;
 }
@@ -21,11 +21,11 @@ input#datetime-picker {
   width: 200px;
   height: 32px;
   border: none;
-  background: #f1ebe5;
+  background: #f4f2f1;
   box-shadow: 0 6px 8px #c4b59d, 0 -2px 1px #fff;
 
   text-align: center;
-  color: #fb0404;
+  color: #0b0bdf;
   font-weight: 600;
 }
 
@@ -46,7 +46,7 @@ button {
   border: none;
   font-size: 14px;
   cursor: pointer;
-  color: #fb0404;
+  color: #06eb19;
   box-shadow: inset 0 3px 4px #ffffff, inset 0 -3px 4px #c4b59d;
   transform: all 300ms linear;
 }
@@ -141,7 +141,7 @@ button[type='submit']:active {
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
-  color: #da740e;
+  color: #d17111;
   text-shadow: 0px 4px 4px #645a49, 0 -2px 1px #fff;
 }
 
@@ -167,7 +167,7 @@ span.flatpickr-day.selected:hover {
 .flatpickr-time input.flatpickr-minute,
 .flatpickr-time input.flatpickr-second {
   font-weight: 400;
-  color: #ff0505;
+  color: #480505;
 }
 
 .form {
@@ -183,7 +183,7 @@ label {
 }
 
 label span {
-  color: #f7eff4;
+  color: #500635;
   text-transform: uppercase;
   text-shadow: 1.1px 1px 0px #c2a8cd, -1.1px -1px 0px #ffffff;
   font-size: 16px;
